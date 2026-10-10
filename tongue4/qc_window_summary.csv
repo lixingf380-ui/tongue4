@@ -1,0 +1,12 @@
+﻿group,sessions,windows,event_windows,event_fraction,mean_quality,file,class_0,class_1,class_2,class_3,class_4,class_5,class_6,class_7,class_8,class_9,class_-1
+test_generatorA_high,16,3049,2260,0.74123,0.53489,windows/window128_test_generatorA_high.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorA_low,16,3049,2260,0.74123,0.82385,windows/window128_test_generatorA_low.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorA_medium,16,3049,2260,0.74123,0.6976,windows/window128_test_generatorA_medium.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorA_nominal,16,3049,2260,0.74123,0.9326,windows/window128_test_generatorA_nominal.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorA_ood,16,3049,2260,0.74123,0.42067,windows/window128_test_generatorA_ood.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorB_high,16,3049,2260,0.74123,0.52811,windows/window128_test_generatorB_high.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorB_medium,16,3049,2260,0.74123,0.70511,windows/window128_test_generatorB_medium.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorB_nominal,16,3049,2260,0.74123,0.93561,windows/window128_test_generatorB_nominal.npz,209,224,231,235,213,227,222,243,232,224,789
+test_generatorB_ood,16,3049,2260,0.74123,0.41415,windows/window128_test_generatorB_ood.npz,209,224,231,235,213,227,222,243,232,224,789
+train_generatorA_mixed,80,15197,11353,0.74706,0.82172,windows/window128_train_generatorA_mixed.npz,1127,1180,1151,1122,1139,1134,1114,1142,1111,1133,3844
+validation_generatorA_mixed,16,3023,2272,0.75157,0.81367,windows/window128_validation_generatorA_mixed.npz,236,232,215,221,223,233,220,234,231,227,751

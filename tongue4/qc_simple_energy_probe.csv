@@ -1,0 +1,12 @@
+﻿group,event_windows,simple_energy_prototype_accuracy
+test_generatorA_high,2260,0.77965
+test_generatorA_low,2260,0.81593
+test_generatorA_medium,2260,0.81858
+test_generatorA_nominal,2260,0.81726
+test_generatorA_ood,2260,0.69956
+test_generatorB_high,2260,0.76327
+test_generatorB_medium,2260,0.83805
+test_generatorB_nominal,2260,0.85619
+test_generatorB_ood,2260,0.73628
+train_generatorA_mixed,11353,0.83211
+validation_generatorA_mixed,2272,0.83451
